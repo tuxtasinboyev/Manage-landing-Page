@@ -1,0 +1,10 @@
+@import "tailwindcss";
+.navbar-ul li:hover{
+    @apply text-gray-400 duration-[0.3s]
+}
+.footer-list ul li{
+    @apply text-white
+}
+.footer-list ul li:hover{
+    @apply text-orange-700
+}
